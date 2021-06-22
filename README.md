@@ -3,7 +3,7 @@ O programa recebe de entrada um arquivo de log (`log.txt`) via `stdin`, contendo
 
 Os dois primeiros dígitos do registro referem-se ao país do usuário, de acordo com o arquivo `codigos.json`
 
-O registro mosra também se o usuário está ativo ou não.
+O registro mostra também se o usuário está ativo ou não.
 
 O programa lê o aruivo de registros e escreve um resumo em um outro arquivo (`resultado.txt`), com a quantidade total de usuários por país e a quantidade de usuários ativos no formato:
 `País,X,Y`, onde `X` é o número total de usuários do país e Y o número de usuários ativos.
