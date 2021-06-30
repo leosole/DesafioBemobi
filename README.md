@@ -5,7 +5,7 @@ Os dois primeiros dígitos do registro referem-se ao país do usuário, de acord
 
 O registro mostra também se o usuário está ativo ou não.
 
-O programa lê o aruivo de registros e escreve um resumo em um outro arquivo (`resultado.txt`), com a quantidade total de usuários por país e a quantidade de usuários ativos no formato:
+O programa lê o arquivo de registros e escreve um resumo em um outro arquivo (`resultado.txt`), com a quantidade total de usuários por país e a quantidade de usuários ativos no formato:
 `País,X,Y`, onde `X` é o número total de usuários do país e Y o número de usuários ativos.
 
 ## Uso
